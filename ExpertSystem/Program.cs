@@ -19,7 +19,7 @@ namespace ExpertSystem
             Console.WriteLine("||                                 ||");
             Console.WriteLine("=====================================");
             Console.WriteLine("");
-            Console.WriteLine("------------press any key------------");
+            Console.WriteLine("-------------press Enter-------------");
             Console.ReadKey();
             Console.Clear();
             Console.WriteLine("   Оценка кредитоспособности предприятия  ");
@@ -82,7 +82,6 @@ namespace ExpertSystem
                             k3n = 0;
                             k4n = 0;
                             k5n = 0;
-                            /////////////////////
                             c240 = c240k - c240n;
                             c250 = c250k - c250n;
                             c260 = c260k - c260n;
@@ -601,8 +600,8 @@ namespace ExpertSystem
                             c010 = c010k - c010n;
                             c050 = c050k - c050n;
                             k1 = c260 / (c690 - c640 - c650);
-                            k2 = (c260 + c250 + c240) / (c690 - c640 - 650);
-                            k3 = c290 / (c690 - c640 - 650);
+                            k2 = (c260 + c250 + c240) / (c690 - c640 - c650);
+                            k3 = c290 / (c690 - c640 - c650);
                             k4 = c490 / (c590 + c690 - c640 - c650);
                             k5 = c050 / c010;
                             Console.WriteLine("ПРОВОДИМ РАССЧЕТ И АНАЛИЗ КОЭФФИЦИЕНТОВ:");
