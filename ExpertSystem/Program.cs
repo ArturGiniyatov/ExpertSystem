@@ -18,6 +18,7 @@ namespace ExpertSystem
             Console.WriteLine("||   Прототип экспертной системы   ||");
             Console.WriteLine("||                                 ||");
             Console.WriteLine("||           ()_0,,,0_()           ||");
+            Console.WriteLine("||                            ver3 ||");
             Console.WriteLine("=====================================");
             Console.WriteLine("");
             Console.WriteLine("-------------press Enter-------------");
