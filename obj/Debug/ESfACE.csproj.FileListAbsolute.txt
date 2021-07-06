@@ -1,0 +1,22 @@
+D:\Backup\Diplom\ESfACE\ESfACE\bin\Debug\ESfACE.exe.config
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.exe
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.pdb
+D:\Backup\Diplom\ESfACE\ESfACE\bin\Debug\ESfACE.exe
+D:\Backup\Diplom\ESfACE\ESfACE\bin\Debug\ESfACE.pdb
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.csprojResolveAssemblyReference.cache
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.Login.resources
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.F_AppOrdering.resources
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.Resultate.resources
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.Menu.resources
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.Properties.Resources.resources
+D:\Backup\Diplom\ESfACE\ESfACE\obj\Debug\ESfACE.csproj.GenerateResource.Cache
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\bin\Debug\ESfACE.exe.config
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.exe
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.pdb
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.csprojResolveAssemblyReference.cache
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.Login.resources
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.F_AppOrdering.resources
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.Resultate.resources
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.Menu.resources
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.Properties.Resources.resources
+D:\09.03.03 Прикладная информатика (в экономике) 2014-2018\Диплом\ESfACE\ESfACE\obj\Debug\ESfACE.csproj.GenerateResource.Cache
